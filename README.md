@@ -9,3 +9,5 @@ Edited with the second account.
 
 Test with the desktop application on Mac to ensure the consistency of the whole project.
 @1146 JUNE23
+
+print ok
